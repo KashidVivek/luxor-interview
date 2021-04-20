@@ -6,7 +6,7 @@ psycopg2, uuid
 ## How to Run
 1. Get the database running using `docker-compose up` command.
 2. Start the server using `./runner.sh`.
-3. Spawn new clients in other terminal tabs using `python3 clinet.py`.
+3. Spawn new clients in other terminal tabs using `python3 client.py`.
 
 ## Intro
 Welcome to the Luxor interview repo! This is a casual coding challenge that should take around 2 hours to complete. You'll have a full 24 hours to submit the code, but we definitely don't expect the task to take the entire day.
